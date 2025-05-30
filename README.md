@@ -55,5 +55,4 @@ jobs:
                 {DockerHubUserName/repoName}:latest
 ```
 
-Feel free to play and learn github actions. Explore your own journey!
 A project by Janitha Dilsham
